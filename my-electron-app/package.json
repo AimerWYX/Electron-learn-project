@@ -1,0 +1,14 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "description": "learn",
+  "author": "Aimer",
+  "devDependencies": {
+    "electron": "^26.2.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
